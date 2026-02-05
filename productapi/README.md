@@ -114,6 +114,16 @@ APIs tested using Thunder Client
 Application successfully tested locally on port 8080
 
 🌍 Live Deployment
+The application is deployed on Render and publicly accessible:
+https://productapi-d1i6.onrender.com/
+
+## API Endpoints
+- POST /items – Add a new item
+- GET /items/{id} – Fetch item by ID
+
+## Testing
+All APIs were tested successfully using Postman.
+
 
 👩‍💻 Author
 
